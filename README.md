@@ -1,2 +1,3 @@
-# SE-experiment
-软件工程项目管理
+# Git Branch Experiment
+
+This project is used for the software engineering Git branch management experiment.
