@@ -1,3 +1,2 @@
-void create_user() {
-    // create user function
-}
+// B2 change: update user module
+void user_login() {}
