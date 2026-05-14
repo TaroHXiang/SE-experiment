@@ -1,3 +1,2 @@
-void create_order() {
-    // create order function
-}
+// B3 change: update order module
+void create_order() {}
